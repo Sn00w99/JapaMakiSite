@@ -1,0 +1,722 @@
+[
+ {
+  "cat": "Entradas",
+  "de": "Carpaccio de salmão trufado",
+  "para": "Carpaccio de Salmão Trufado"
+ },
+ {
+  "cat": "Entradas",
+  "de": "Guioza de salmao",
+  "para": "Guioza de Salmão"
+ },
+ {
+  "cat": "Entradas",
+  "de": "Guioza de frango",
+  "para": "Guioza de Frango"
+ },
+ {
+  "cat": "Entradas",
+  "de": "Guioza de siri",
+  "para": "Guioza de Siri"
+ },
+ {
+  "cat": "Entradas",
+  "de": "Guioza de palmito",
+  "para": "Guioza de Palmito"
+ },
+ {
+  "cat": "Harumakis",
+  "de": "Harumaki Camarão c/ Cream Cheese e alho poró",
+  "para": "Harumaki Camarão c/ Cream Cheese e Alho Poró"
+ },
+ {
+  "cat": "Harumakis",
+  "de": "Harumaki Salmao c/ Requeijao",
+  "para": "Harumaki Salmão c/ Requeijão"
+ },
+ {
+  "cat": "Harumakis",
+  "de": "Harumaki Frango c/ Requeijao",
+  "para": "Harumaki Frango c/ Requeijão"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi salmao",
+  "para": "Sashimi Salmão"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi salmao roast",
+  "para": "Sashimi Salmão Roast"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi salmao na crosta de gergelim",
+  "para": "Sashimi Salmão na Crosta de Gergelim"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi salmao roast ao ml maracujá",
+  "para": "Sashimi Salmão Roast ao Molho de Maracujá"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi salmao black",
+  "para": "Sashimi Salmão Black"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi atum",
+  "para": "Sashimi Atum"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi atum roast",
+  "para": "Sashimi Atum Roast"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi atum na crosta de gergelim",
+  "para": "Sashimi Atum na Crosta de Gergelim"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi peixe branco",
+  "para": "Sashimi Peixe Branco"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi kani",
+  "para": "Sashimi Kani"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi polvo",
+  "para": "Sashimi Polvo"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Sashimi haddock",
+  "para": "Sashimi Haddock"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Mix sashimi 1 - 18pçs",
+  "para": "Mix Sashimi 1 — 18pçs"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Mix sashimi 2 - 36pç",
+  "para": "Mix Sashimi 2 — 36pç"
+ },
+ {
+  "cat": "Sashimis",
+  "de": "Mix sashimi 3 - 60pç",
+  "para": "Mix Sashimi 3 — 60pç"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis salmao",
+  "para": "Four de Sushis Salmão"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushi camarão invertido",
+  "para": "Four de Sushi Camarão Invertido"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis salmao roast",
+  "para": "Four de Sushis Salmão Roast"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis atum",
+  "para": "Four de Sushis Atum"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis atum roast",
+  "para": "Four de Sushis Atum Roast"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis peixe branco",
+  "para": "Four de Sushis Peixe Branco"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis camarao",
+  "para": "Four de Sushis Camarão"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis kani",
+  "para": "Four de Sushis Kani"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis skin",
+  "para": "Four de Sushis Skin"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis polvo",
+  "para": "Four de Sushis Polvo"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Four de sushis haddock",
+  "para": "Four de Sushis Haddock"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Mix sushi 1 - 12pç",
+  "para": "Mix Sushi 1 — 12pç"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Mix sushi 2 - 22pç",
+  "para": "Mix Sushi 2 — 22pç"
+ },
+ {
+  "cat": "Sushis",
+  "de": "Mix sushi 3 - 40pç",
+  "para": "Mix Sushi 3 — 40pç"
+ },
+ {
+  "cat": "Dupla de Joes",
+  "de": "Joe salmao",
+  "para": "Joe Salmão"
+ },
+ {
+  "cat": "Dupla de Joes",
+  "de": "Joe roast ebi",
+  "para": "Joe Roast Ebi"
+ },
+ {
+  "cat": "Dupla de Joes",
+  "de": "Joe japa maki",
+  "para": "Joe Japa Maki"
+ },
+ {
+  "cat": "Dupla de Joes",
+  "de": "Joe haddock",
+  "para": "Joe Haddock"
+ },
+ {
+  "cat": "Dupla de Joes",
+  "de": "Joe pimenta doce",
+  "para": "Joe Pimenta Doce"
+ },
+ {
+  "cat": "Dupla de Joes",
+  "de": "Joe framboesa",
+  "para": "Joe Framboesa"
+ },
+ {
+  "cat": "Dupla de Joes",
+  "de": "Joe kappa",
+  "para": "Joe Kappa"
+ },
+ {
+  "cat": "Dupla de Joes",
+  "de": "Joe maracujá",
+  "para": "Joe Maracujá"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki filadelfia",
+  "para": "Temaki Filadélfia"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki salmao",
+  "para": "Temaki Salmão"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki salmao roast",
+  "para": "Temaki Salmão Roast"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki chilli salmao",
+  "para": "Temaki Chilli Salmão"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki atum",
+  "para": "Temaki Atum"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki atum roast",
+  "para": "Temaki Atum Roast"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki chilli tuna",
+  "para": "Temaki Chilli Tuna"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki ebi",
+  "para": "Temaki Ebi"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki california",
+  "para": "Temaki Califórnia"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki skin",
+  "para": "Temaki Skin"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki polvo",
+  "para": "Temaki Polvo"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki hot filadelfia",
+  "para": "Temaki Hot Filadélfia"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki hot filadelfia empanado",
+  "para": "Temaki Hot Filadélfia Empanado"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki hot ebi",
+  "para": "Temaki Hot Ebi"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Temaki hot ebi empanado",
+  "para": "Temaki Hot Ebi Empanado"
+ },
+ {
+  "cat": "Temakis",
+  "de": "Acréscimo temaki sem Arroz",
+  "para": "Acréscimo Temaki sem Arroz"
+ },
+ {
+  "cat": "Gunkans e Especiais",
+  "de": "Gunkan roast",
+  "para": "Gunkan Roast"
+ },
+ {
+  "cat": "Gunkans e Especiais",
+  "de": "Gunkan biquinho",
+  "para": "Gunkan Biquinho"
+ },
+ {
+  "cat": "Gunkans e Especiais",
+  "de": "Gunkan tempurá ebi",
+  "para": "Gunkan Tempurá Ebi"
+ },
+ {
+  "cat": "Gunkans e Especiais",
+  "de": "Salmao cracker picante",
+  "para": "Salmão Cracker Picante"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Maki roll- filadelfia",
+  "para": "Maki Roll — Filadélfia"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Maki roll- teka maki",
+  "para": "Maki Roll — Teka Maki"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Maki roll- ebi maki",
+  "para": "Maki Roll — Ebi Maki"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Maki roll- salmao maki",
+  "para": "Maki Roll — Salmão Maki"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Maki roll- kani maki",
+  "para": "Maki Roll — Kani Maki"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Maki roll- kappa maki",
+  "para": "Maki Roll — Kappa Maki"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Uramaki filadelfia",
+  "para": "Uramaki Filadélfia"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Uramaki california",
+  "para": "Uramaki Califórnia"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Uramaki skin",
+  "para": "Uramaki Skin"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Uramaki chilli tuna",
+  "para": "Uramaki Chilli Tuna"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Uramaki chilli salmao",
+  "para": "Uramaki Chilli Salmão"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Uramaki ebiten",
+  "para": "Uramaki Ebiten"
+ },
+ {
+  "cat": "Maki Rolls",
+  "de": "Boston star",
+  "para": "Boston Star"
+ },
+ {
+  "cat": "Hots",
+  "de": "Hot filadelfia",
+  "para": "Hot Filadélfia"
+ },
+ {
+  "cat": "Hots",
+  "de": "Hot ebi",
+  "para": "Hot Ebi"
+ },
+ {
+  "cat": "Hots",
+  "de": "Hot siri",
+  "para": "Hot Siri"
+ },
+ {
+  "cat": "Hots",
+  "de": "Hot skin",
+  "para": "Hot Skin"
+ },
+ {
+  "cat": "Hots",
+  "de": "Hot do chef",
+  "para": "Hot do Chef"
+ },
+ {
+  "cat": "Hots",
+  "de": "Hot japa maki",
+  "para": "Hot Japa Maki"
+ },
+ {
+  "cat": "Hots",
+  "de": "Super hot filadelfia",
+  "para": "Super Hot Filadélfia"
+ },
+ {
+  "cat": "Hots",
+  "de": "Haru hot filadelfia",
+  "para": "Haru Hot Filadélfia"
+ },
+ {
+  "cat": "Hots",
+  "de": "Haru hot tempurá ebi",
+  "para": "Haru Hot Tempurá Ebi"
+ },
+ {
+  "cat": "Hots",
+  "de": "MEIO HOT FILADELFIA",
+  "para": "Meio Hot Filadélfia"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Steak filet mignon c/ arroz de shimeji",
+  "para": "Steak Filet Mignon c/ Arroz de Shimeji"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Gyukatsu - carne",
+  "para": "Gyukatsu — Carne"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Ika furai- lula",
+  "para": "Ika Furai — Lula"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Empanado panko beringela",
+  "para": "Empanado Panko Beringela"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Salmao blend c/ arroz de alho poró",
+  "para": "Salmão Blend c/ Arroz de Alho Poró"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Frango agridoce chinês",
+  "para": "Frango Agridoce Chinês"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Kakiague udon",
+  "para": "Kakiague Udon"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Tori furai- frango",
+  "para": "Tori Furai — Frango"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Sakana furai",
+  "para": "Sakana Furai"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Empanado panko cebola",
+  "para": "Empanado Panko Cebola"
+ },
+ {
+  "cat": "Empanados e Cozinha Contemporânea",
+  "de": "Frango xadrez",
+  "para": "Frango Xadrez"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki banana c/ canela",
+  "para": "Harumaki Banana c/ Canela"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki banana c/ chocolate",
+  "para": "Harumaki Banana c/ Chocolate"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki banana c/ doce de leite",
+  "para": "Harumaki Banana c/ Doce de Leite"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki banana c/ nutella",
+  "para": "Harumaki Banana c/ Nutella"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki chocolate",
+  "para": "Harumaki Chocolate"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki chocolate c/ m&ms",
+  "para": "Harumaki Chocolate c/ M&ms"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki de doce de leite",
+  "para": "Harumaki de Doce de Leite"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki morango c/ chocolate",
+  "para": "Harumaki Morango c/ Chocolate"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki morango c/ chocolate branco",
+  "para": "Harumaki Morango c/ Chocolate Branco"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki morango c/ nutella",
+  "para": "Harumaki Morango c/ Nutella"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki nutella",
+  "para": "Harumaki Nutella"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki prestígio",
+  "para": "Harumaki Prestígio"
+ },
+ {
+  "cat": "Harumakis Doces",
+  "de": "Harumaki romeu e julieta",
+  "para": "Harumaki Romeu e Julieta"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho tinto Naturelle",
+  "para": "Vinho Tinto Naturelle"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho tinto suave Viollete",
+  "para": "Vinho Tinto Suave Viollete"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "WHISKY FIREBALL - DOSE",
+  "para": "Whisky Fireball — Dose"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Coquetel de Frutas - Não Alcoólico",
+  "para": "Coquetel de Frutas — Não Alcoólico"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Branco cosecha sauvignon blanc",
+  "para": "Vinho Branco Cosecha Sauvignon Blanc"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Dose licor 43",
+  "para": "Dose Licor 43"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Espumante Aquarela - Casa Perini",
+  "para": "Espumante Aquarela — Casa Perini"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "H2OH!",
+  "para": "H2OH!!"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Mate da casa - copo 350 ml",
+  "para": "Mate da Casa — Copo 350 ml"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Red Bull 250ml",
+  "para": "Red Bull 250mL"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "REFIL",
+  "para": "Refil"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Suco Natural 300ml",
+  "para": "Suco Natural 300mL"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Alfredo Roca Fincas Pinot Noir - Argentina",
+  "para": "Vinho Alfredo Roca Fincas Pinot Noir — Argentina"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Branco Casa Perini Macaw - Brasil",
+  "para": "Vinho Branco Casa Perini Macaw — Brasil"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Negroamaro Primitivo - Itália",
+  "para": "Vinho Negroamaro Primitivo — Itália"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Pata Negra Oro Tempranillo - Espanha",
+  "para": "Vinho Pata Negra Oro Tempranillo — Espanha"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Rosé Casa Perini Macaw - Brasil",
+  "para": "Vinho Rosé Casa Perini Macaw — Brasil"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Tinto Bons Ventos - Portugal",
+  "para": "Vinho Tinto Bons Ventos — Portugal"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Tinto Porta do Monte - Portugal",
+  "para": "Vinho Tinto Porta do Monte — Portugal"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Punto Cero Cabernet Sauvignon - Chile",
+  "para": "Vinho Punto Cero Cabernet Sauvignon — Chile"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Tinto Saronga Pinotage - África do Sul",
+  "para": "Vinho Tinto Saronga Pinotage — África do Sul"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Sol de Chile Pinot Noir - Chile",
+  "para": "Vinho Sol de Chile Pinot Noir — Chile"
+ },
+ {
+  "cat": "Bebidas",
+  "de": "Vinho Tinto Sino Grande - Portugal",
+  "para": "Vinho Tinto Sino Grande — Portugal"
+ },
+ {
+  "cat": "Sobremesas",
+  "de": "Mini churros de doce de leite c/ sorvete- 5unid",
+  "para": "Mini Churros de Doce de Leite c/ Sorvete — 5unid"
+ },
+ {
+  "cat": "Sobremesas",
+  "de": "Banana flambada c/ gengibre e sorvete",
+  "para": "Banana Flambada c/ Gengibre e Sorvete"
+ },
+ {
+  "cat": "Sobremesas",
+  "de": "Mini churros de doce de leite- 8 unid",
+  "para": "Mini Churros de Doce de Leite — 8 Unid"
+ },
+ {
+  "cat": "Sobremesas",
+  "de": "Hotnana com nutella e morangos frescos- 10 pç",
+  "para": "Hotnana com Nutella e Morangos Frescos — 10 Pç"
+ },
+ {
+  "cat": "Japa Kids",
+  "de": "Filé de peixe empanado c/ arroz branco, fritas ou salada - KIDS",
+  "para": "Filé de Peixe Empanado c/ Arroz Branco, Fritas ou Salada — Kids"
+ },
+ {
+  "cat": "Japa Kids",
+  "de": "Iscas de frango c/ arroz branco, fritas ou salada - KIDS",
+  "para": "Iscas de Frango c/ Arroz Branco, Fritas ou Salada — Kids"
+ },
+ {
+  "cat": "Japa Kids",
+  "de": "Frango empanado c/ arroz branco, fritas ou salada - KIDS",
+  "para": "Frango Empanado c/ Arroz Branco, Fritas ou Salada — Kids"
+ },
+ {
+  "cat": "Japa Kids",
+  "de": "Yakisoba kids de frango",
+  "para": "Yakisoba Kids de Frango"
+ },
+ {
+  "cat": "Japa Kids",
+  "de": "Yakisoba kids de carne",
+  "para": "Yakisoba Kids de Carne"
+ }
+]
